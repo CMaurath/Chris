@@ -15,7 +15,7 @@ group :development, :test do
   gem 'byebug'
 end
 
-goup :production do
+group :production do
 	gem 'pg'
 	gem 'rails_12factor'
 end
